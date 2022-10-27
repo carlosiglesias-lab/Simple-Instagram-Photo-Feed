@@ -47,6 +47,8 @@ header h1 {
 }
 .post-foto{
     min-height: 400px;
+    display:flex;
+    align-items: center;
 }
 .post-foto img{
     object-fit: cover;
